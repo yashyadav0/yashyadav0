@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Yadav</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashyadav0&label=Profile%20views&color=0e75b6&style=flat" alt="yashyadav0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashyadav0" alt="yashyadav0" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashyadav0" alt="yashyadav0" /></a> </p>
 
 - 📫 How to reach me **yash.yadav18445@sakec.ac.in**
 
